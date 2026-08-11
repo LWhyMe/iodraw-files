@@ -10,11 +10,11 @@
         <mxCell id="i6kfCNjC7K-ZBzYnttqG-1" value="剂量及位置监测电子学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="340" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i6kfCNjC7K-ZBzYnttqG-2" value="剂量及位置监测电子学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i6kfCNjC7K-ZBzYnttqG-2" value="电子学接口模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="480" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i6kfCNjC7K-ZBzYnttqG-4" value="网口或者光纤（待确定）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="418" width="160" height="30" as="geometry" />
+          <mxGeometry x="455" y="424" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
