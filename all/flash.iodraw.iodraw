@@ -20,13 +20,13 @@
           <mxGeometry x="340" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i6kfCNjC7K-ZBzYnttqG-7" value="BCC&lt;div&gt;一个输入、一个输出&lt;/div&gt;&lt;div&gt;信号类型为直流电流光耦&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i6kfCNjC7K-ZBzYnttqG-8" value="网口传输的数据内容包含：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="415" y="388" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MlNKkQKeQ6ybpuMzj2aF-1" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;网口或者光纤（待确定）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="610" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
