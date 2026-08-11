@@ -22,7 +22,7 @@
         <mxCell id="i6kfCNjC7K-ZBzYnttqG-6" value="DCEU&lt;div&gt;电离室电流转换脉冲&lt;/div&gt;&lt;div&gt;0.2pC/count&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i6kfCNjC7K-ZBzYnttqG-7" value="DCEU&lt;div&gt;电离室电流转换脉冲&lt;/div&gt;&lt;div&gt;0.2pC/count&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i6kfCNjC7K-ZBzYnttqG-7" value="BCC&lt;div&gt;一个输入、一个输出&lt;/div&gt;&lt;div&gt;信号类型为直流电流光耦&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
