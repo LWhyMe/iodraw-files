@@ -58,6 +58,9 @@
         <mxCell id="ln8AsHuSQfGCfAG_mNsU-10" value="电脑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="940" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ln8AsHuSQfGCfAG_mNsU-12" value="FPGA下载器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="940" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
