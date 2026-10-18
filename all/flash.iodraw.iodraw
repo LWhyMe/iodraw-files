@@ -111,10 +111,13 @@
           <mxGeometry x="218" y="-284" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpgaBJsOhvPdQbUmLrP9-12" value="控制/回写" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="287" y="-151" width="70" height="30" as="geometry" />
+          <mxGeometry x="285" y="-152" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpgaBJsOhvPdQbUmLrP9-13" value="原始数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="294" y="-199" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpgaBJsOhvPdQbUmLrP9-14" value="供电" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="-182" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
