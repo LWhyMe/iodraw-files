@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="931Ys1Qi_t5i0vC-zmAv">
-    <mxGraphModel dx="1050" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,6 +76,9 @@
             <mxPoint x="640" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SpgaBJsOhvPdQbUmLrP9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpgaBJsOhvPdQbUmLrP9-1" target="SpgaBJsOhvPdQbUmLrP9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SpgaBJsOhvPdQbUmLrP9-1" value="待标定的电路板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
@@ -90,6 +93,9 @@
         </mxCell>
         <mxCell id="SpgaBJsOhvPdQbUmLrP9-5" value="电流源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpgaBJsOhvPdQbUmLrP9-7" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
