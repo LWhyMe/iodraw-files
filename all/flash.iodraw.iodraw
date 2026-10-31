@@ -97,7 +97,7 @@
         <mxCell id="RK0TGozdyDx0m18TYQUe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-3" target="RK0TGozdyDx0m18TYQUe-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RK0TGozdyDx0m18TYQUe-49" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RK0TGozdyDx0m18TYQUe-19">
+        <mxCell id="RK0TGozdyDx0m18TYQUe-49" value="AVDD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RK0TGozdyDx0m18TYQUe-19">
           <mxGeometry x="-0.7656" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -156,11 +156,6 @@
               <mxPoint x="1150" y="990" />
               <mxPoint x="1410" y="990" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RK0TGozdyDx0m18TYQUe-44" value="DVDD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RK0TGozdyDx0m18TYQUe-33">
-          <mxGeometry x="-0.2734" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-9" target="RK0TGozdyDx0m18TYQUe-35">
