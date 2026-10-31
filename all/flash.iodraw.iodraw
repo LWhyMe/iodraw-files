@@ -110,7 +110,7 @@
         <mxCell id="RK0TGozdyDx0m18TYQUe-5" value="ADR4540BRZ-R7&#xa;4.096V电压基准&#xa;噪声（0.1~10Hz)2.7uVp-p&#xa;精度±0.02%" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1514" y="787.5" width="160" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="RK0TGozdyDx0m18TYQUe-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-7" target="RK0TGozdyDx0m18TYQUe-18">
+        <mxCell id="RK0TGozdyDx0m18TYQUe-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-7" target="RK0TGozdyDx0m18TYQUe-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-7" value="OPA350UA/2K5&lt;div&gt;电压跟随，缓冲&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
