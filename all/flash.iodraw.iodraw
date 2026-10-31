@@ -28,6 +28,9 @@
         <mxCell id="MlNKkQKeQ6ybpuMzj2aF-1" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;网口或者光纤（待确定）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="610" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RK0TGozdyDx0m18TYQUe-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ln8AsHuSQfGCfAG_mNsU-4" target="RK0TGozdyDx0m18TYQUe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ln8AsHuSQfGCfAG_mNsU-4" value="外部线性电源输入24V" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="870" width="120" height="60" as="geometry" />
         </mxCell>
@@ -73,6 +76,9 @@
         </mxCell>
         <mxCell id="SpgaBJsOhvPdQbUmLrP9-14" value="供电" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="-185" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RK0TGozdyDx0m18TYQUe-1" value="&lt;div&gt;TPS5430DDAR&lt;/div&gt;&lt;div&gt;24V转6V&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
