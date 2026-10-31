@@ -83,6 +83,9 @@
         <mxCell id="RK0TGozdyDx0m18TYQUe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-1" target="RK0TGozdyDx0m18TYQUe-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RK0TGozdyDx0m18TYQUe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-1" target="RK0TGozdyDx0m18TYQUe-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-1" value="&lt;div&gt;TPS5430DDAR&lt;/div&gt;&lt;div&gt;24V转6V&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1125" y="795" width="120" height="60" as="geometry" />
         </mxCell>
@@ -104,7 +107,7 @@
         <mxCell id="RK0TGozdyDx0m18TYQUe-9" value="AMS1117-3.3" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RK0TGozdyDx0m18TYQUe-11" value="AMS1117-3.3" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RK0TGozdyDx0m18TYQUe-11" value="AMS1117-2.5" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
