@@ -102,7 +102,7 @@
           <mxGeometry x="1310" y="795" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-5" value="ADR4540BRZ-R7&#xa;4.096V电压基准&#xa;噪声（0.1~10Hz)2.7uVp-p&#xa;精度±0.02%" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1514" y="787.5" width="160" height="75" as="geometry" />
+          <mxGeometry x="1290" y="1090" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-7" target="RK0TGozdyDx0m18TYQUe-16">
           <mxGeometry relative="1" as="geometry" />
