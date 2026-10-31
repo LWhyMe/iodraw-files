@@ -99,7 +99,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-3" value="&lt;div&gt;LT3045EDD#TRPBF&lt;/div&gt;&lt;div&gt;6V稳压5V&lt;/div&gt;&lt;div&gt;0.8uVrms&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="795" width="120" height="60" as="geometry" />
+          <mxGeometry x="1310" y="795" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-5" target="RK0TGozdyDx0m18TYQUe-7">
           <mxGeometry relative="1" as="geometry" />
@@ -126,7 +126,7 @@
           <mxGeometry x="1240" y="935" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-18" value="DDC316" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="935" width="120" height="60" as="geometry" />
+          <mxGeometry x="1380" y="935" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
