@@ -113,8 +113,8 @@
         <mxCell id="RK0TGozdyDx0m18TYQUe-11" value="AMS1117-2.5" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RK0TGozdyDx0m18TYQUe-14" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="870" width="120" height="60" as="geometry" />
+        <mxCell id="RK0TGozdyDx0m18TYQUe-14" value="AMS1117-1.2" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
