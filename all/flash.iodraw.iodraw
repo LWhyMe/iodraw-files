@@ -77,8 +77,14 @@
         <mxCell id="SpgaBJsOhvPdQbUmLrP9-14" value="供电" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="-185" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RK0TGozdyDx0m18TYQUe-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-1" target="RK0TGozdyDx0m18TYQUe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-1" value="&lt;div&gt;TPS5430DDAR&lt;/div&gt;&lt;div&gt;24V转6V&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RK0TGozdyDx0m18TYQUe-3" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
