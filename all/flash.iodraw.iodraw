@@ -135,15 +135,7 @@
           <mxGeometry x="1380" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-20" value="OPA350UA/2K5&lt;div&gt;电压跟随，缓冲&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="1070" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RK0TGozdyDx0m18TYQUe-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.435;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-20" target="RK0TGozdyDx0m18TYQUe-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1750" y="990" />
-              <mxPoint x="1292" y="990" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="1690" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
