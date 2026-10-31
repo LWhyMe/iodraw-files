@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ln8AsHuSQfGCfAG_mNsU-4" value="外部线性电源输入24V" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SpgaBJsOhvPdQbUmLrP9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="SpgaBJsOhvPdQbUmLrP9-1" target="SpgaBJsOhvPdQbUmLrP9-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -105,7 +105,7 @@
         <mxCell id="RK0TGozdyDx0m18TYQUe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-3" target="RK0TGozdyDx0m18TYQUe-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1520" y="840" />
+              <mxPoint x="1520" y="820" />
               <mxPoint x="1520" y="1148" />
               <mxPoint x="1450" y="1148" />
             </Array>
