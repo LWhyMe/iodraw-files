@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ln8AsHuSQfGCfAG_mNsU-4" value="外部线性电源输入24V" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SpgaBJsOhvPdQbUmLrP9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="SpgaBJsOhvPdQbUmLrP9-1" target="SpgaBJsOhvPdQbUmLrP9-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -87,7 +87,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-1" value="&lt;div&gt;TPS5430DDAR&lt;/div&gt;&lt;div&gt;24V转6V&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-3" target="RK0TGozdyDx0m18TYQUe-16">
           <mxGeometry relative="1" as="geometry" />
@@ -160,19 +160,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-9" value="AMS1117-3.3" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-11" target="RK0TGozdyDx0m18TYQUe-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-11" value="AMS1117-2.5" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-14" target="RK0TGozdyDx0m18TYQUe-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-14" value="AMS1117-1.2" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-16" value="DDC316" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="910" width="120" height="60" as="geometry" />
@@ -197,7 +197,7 @@
           <mxGeometry x="1381" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-35" value="FPGA" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
