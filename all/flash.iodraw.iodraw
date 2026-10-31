@@ -81,7 +81,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-1" value="&lt;div&gt;TPS5430DDAR&lt;/div&gt;&lt;div&gt;24V转6V&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="795" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-3" target="RK0TGozdyDx0m18TYQUe-16">
           <mxGeometry relative="1" as="geometry" />
@@ -125,7 +125,7 @@
         <mxCell id="RK0TGozdyDx0m18TYQUe-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-9" target="RK0TGozdyDx0m18TYQUe-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1105" y="990" />
+              <mxPoint x="1140" y="990" />
               <mxPoint x="1410" y="990" />
             </Array>
           </mxGeometry>
