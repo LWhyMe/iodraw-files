@@ -93,7 +93,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-5" value="ADR4540BRZ-R7&#xa;4.096V电压基准&#xa;噪声（0.1~10Hz)2.7uVp-p&#xa;精度±0.02%" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="680" width="135" height="90" as="geometry" />
+          <mxGeometry x="1300" y="680" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-7" value="OPA350UA/2K5&lt;div&gt;电压跟随，缓冲&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="695" width="120" height="60" as="geometry" />
