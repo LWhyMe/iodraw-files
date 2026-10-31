@@ -104,11 +104,17 @@
         <mxCell id="RK0TGozdyDx0m18TYQUe-7" value="OPA350UA/2K5&lt;div&gt;电压跟随，缓冲&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1480" y="695" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RK0TGozdyDx0m18TYQUe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RK0TGozdyDx0m18TYQUe-9" target="RK0TGozdyDx0m18TYQUe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-9" value="AMS1117-3.3" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-11" value="AMS1117-2.5" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RK0TGozdyDx0m18TYQUe-14" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
