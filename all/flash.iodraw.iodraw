@@ -197,7 +197,7 @@
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-43" value="Vref" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RK0TGozdyDx0m18TYQUe-27">
           <mxGeometry x="0.0254" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RK0TGozdyDx0m18TYQUe-20" value="OPA350UA/2K5&lt;div&gt;电压跟随，缓冲&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
